@@ -6,6 +6,7 @@ This means you can pose a character or object with the normal move/rotate/scale 
 
 ![Showcase](img/showcase.gif)
 
+![Showcase](img/update.gif)
 ## Usage
 
 1. Disable Auto Keying (see the note below).
